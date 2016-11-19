@@ -18,8 +18,6 @@ About the way of programming, is based in MVC model.
     -Common:
         top.php
         bottom.php
-    -Main view:
-        demoToucanTech.php
-    -Auxiliar views (for AJAX implementation):
-        D_MemberList.php
-        D_SchoolDetails.php
+     demoToucanTech.php -> Main view
+     D_MemberList.php -> For AJAX implementation
+     D_SchoolDetails.php -> For AJAX implementation
